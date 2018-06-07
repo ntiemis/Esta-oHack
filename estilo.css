@@ -1,0 +1,49 @@
+body {
+    margin: 0%;
+    font-family: sans-serif; verdana
+}
+
+#menu {
+    background-color: rgba(48, 48, 241, 0.815);
+    margin: 0%;
+}
+
+.menu {
+    color: white;
+    margin: 10px 1%;
+    background-color: rgba(48, 48, 241, 0.815); 
+    border: 0px; 
+    max-width: 60%; 
+}
+
+#titulo {
+    background-color: gray;
+    margin: 0px;
+    width: 100%;
+    height: 700px;    
+}
+
+#bokunohero {
+    margin: 0%;
+    position: absolute;
+    top: 40%;
+    left: 40%;
+}
+
+#section2 {
+    width: 100%;
+    margin: 0%;
+}
+
+#imagemua {
+    display: inline;
+    max-width: 50%;
+}
+
+#textoua {
+    display: inline;
+    max-width: 50%;
+}
+
+
+
