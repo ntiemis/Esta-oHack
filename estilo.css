@@ -214,3 +214,47 @@ h3 {
     text-align: center;
 }
 
+#mangastit {
+    position: relative;
+    display: auto;
+    max-width: 100%;
+}
+
+.volsessao {
+    position: relative;
+    display: flex;
+    max-width: 100%;
+    margin: 0 auto;
+    padding: 2%;
+}
+
+.manga {
+    position: relative;
+    max-width: 100%;
+    padding: 2%;
+}
+
+.imagemmanga {
+    position: relative;
+    width: 200px;
+    max-width: 100%;
+}
+
+.imagemtam {
+    width: 100%;
+    max-width: 100%;
+}
+
+.titmanga {
+    border: 20px;
+    text-align: center;
+    max-width: 100%;
+}
+
+.volumes {
+    color: black;
+    text-align: center;
+    font-size: 15px;
+    position: relative;
+}
+
